@@ -1,6 +1,6 @@
 # Hello! 👋
-### My name is Daniel Nguyen, and I am a second year studying CS at San Jose State University. 
-### At the moment I am working on VIVI, an ai-powered image generator for those who need help visualizing images when reading. 
+My name is Daniel Nguyen, and I am a second year studying CS at San Jose State University. 
+At the moment I am working on VIVI, an ai-powered image generator for those who need help visualizing images when reading. 
 ###
 ## Projects:
 ### VIVI (Visual Interpretation for Verbal Input) - AI-powered website that allows users to generate images from what they read.
