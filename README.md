@@ -9,7 +9,9 @@ MirrorMe - Google chrome extension that allows you to access your camera feed qu
 
 ## Skills:
 Frontend: React, TypeScript, TailwindCSS
+
 Backend: Node.js, Express, FastAPI
+
 Databases: Firebase, MongoDB
 
 ## Connect with Me:
