@@ -15,5 +15,5 @@ Backend: Node.js, Express, FastAPI, Java
 Databases: Firebase, MongoDB
 
 ## Connect with Me:
-### https://www.linkedin.com/in/daniel-nguyenn/
-### https://deeedaniel.vercel.app/
+https://www.linkedin.com/in/daniel-nguyenn/
+https://deeedaniel.vercel.app/
