@@ -3,6 +3,7 @@ My name is Daniel Nguyen, and I am a second year studying CS at San Jose State U
 
 ## Projects:
 Chillguy.ai - Mental health AI agent that proactively calls your phone for check-ups.
+
 MirrorMe - Google chrome extension that allows you to access your camera feed quickly.
 
 ## Skills:
