@@ -15,22 +15,21 @@
     {
       "name": "TwinMind Web",
       "description": "iOS app recreated as a web app (Take-home interview assignment)",
-      "link": "https://github.com/your-username/twinmind-web"
+      "link": "https://twinmind.vercel.app"
     },
     {
       "name": "Chillguy.ai",
       "description": "AI-powered mental health agent that calls you to check up on you (2nd Place – Hack for Humanity 2024)",
-      "link": "https://your-chillguy-link.com"
+      "link": "https://devpost.com/software/chillguy-ai"
     },
     {
       "name": "VIVI",
       "description": "AI storytelling companion for neurodivergent children",
-      "link": "https://your-vivi-link.com"
+      "link": "https://devpost.com/software/vivi-qj6fug"
     }
   ],
   "fun_fact": "I love creating videos, both filming and editing!",
   "contact": {
-    "linkedin": "https://www.linkedin.com/in/your-linkedin-handle",
-    "resume": "https://your-resume-link.com"
+    "linkedin": "https://www.linkedin.com/in/daniel-nguyenn/",
   }
 }
