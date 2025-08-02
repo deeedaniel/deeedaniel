@@ -19,7 +19,7 @@
     },
     {
       "name": "Chillguy.ai",
-      "description": "AI-powered mental health agent that calls you to check up on you (2nd Place – Hack for Humanity 2024)",
+      "description": "AI mental health agent that calls you to check up on you (2nd Place – Hack for Humanity)",
       "link": "https://devpost.com/software/chillguy-ai"
     },
     {
